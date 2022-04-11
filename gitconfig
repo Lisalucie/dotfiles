@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lislaor44@gmail.com
+	name = Lisa Loreau
